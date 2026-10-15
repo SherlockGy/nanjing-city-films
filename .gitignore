@@ -1,0 +1,32 @@
+# 本地密钥与环境配置
+.env
+.env.*
+!.env.example
+
+# 依赖、缓存和本机文件
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# 成片和临时产物通过 Release 发布，保留网页依赖及展示资料
+output/*
+!output/soundtrack.m4a
+!output/封面.jpg
+!output/素材署名.txt
+!output/金陵·一卷未干的水墨.srt
+
+!output/short/
+output/short/*
+!output/short/music.m4a
+!output/short/封面_开场.jpg
+!output/short/封面_海报.jpg
+
+!output/history/
+output/history/*
+!output/history/music.m4a
+!output/history/scenes.json
+!output/history/封面_中山陵.jpg
+!output/history/预览_玄武湖.jpg

@@ -1,0 +1,393 @@
+{
+ "bpm": 96,
+ "duration": 133.7,
+ "scenes": [
+  {
+   "id": "ingot",
+   "t0": 0,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "D",
+   "key": "埋下了金。",
+   "mourn": false
+  },
+  {
+   "id": "wangqi",
+   "t0": 3.125,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "D",
+   "key": "王气。",
+   "mourn": false
+  },
+  {
+   "id": "fail",
+   "t0": 5.625,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "D",
+   "key": "他没能做到。",
+   "mourn": false
+  },
+  {
+   "id": "title",
+   "t0": 8.125,
+   "dur": 4.375,
+   "b": 7,
+   "bg": "D",
+   "key": "金陵",
+   "mourn": false
+  },
+  {
+   "id": "zhuge",
+   "t0": 12.5,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "钟山龙蟠，石城虎踞。",
+   "mourn": false
+  },
+  {
+   "id": "jianye",
+   "t0": 15.625,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "建都。",
+   "mourn": false
+  },
+  {
+   "id": "migrate",
+   "t0": 18.125,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "衣冠南渡。",
+   "mourn": false
+  },
+  {
+   "id": "wuyi",
+   "t0": 21.25,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "王谢风流。",
+   "mourn": false
+  },
+  {
+   "id": "pi",
+   "t0": 23.75,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "3.1415926",
+   "mourn": false
+  },
+  {
+   "id": "qixia",
+   "t0": 26.875,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "千佛岩。",
+   "mourn": false
+  },
+  {
+   "id": "wenxin",
+   "t0": 30,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "文心雕龙。",
+   "mourn": false
+  },
+  {
+   "id": "jiming",
+   "t0": 32.5,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "烟雨中。",
+   "mourn": false
+  },
+  {
+   "id": "fall",
+   "t0": 35.625,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "繁华散尽。",
+   "mourn": false
+  },
+  {
+   "id": "poet",
+   "t0": 38.75,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "旧时王谢堂前燕。",
+   "mourn": false
+  },
+  {
+   "id": "liyu",
+   "t0": 41.875,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "一江春水向东流。",
+   "mourn": false
+  },
+  {
+   "id": "ming",
+   "t0": 45,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "大明。",
+   "mourn": false
+  },
+  {
+   "id": "wall",
+   "t0": 48.125,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "35公里。",
+   "mourn": false
+  },
+  {
+   "id": "bricks",
+   "t0": 51.25,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "都有名字。",
+   "mourn": false
+  },
+  {
+   "id": "zhenghe",
+   "t0": 53.75,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "郑和下西洋。",
+   "mourn": false
+  },
+  {
+   "id": "yongle",
+   "t0": 56.875,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "22877卷。",
+   "mourn": false
+  },
+  {
+   "id": "tower",
+   "t0": 59.375,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "世界奇迹。",
+   "mourn": false
+  },
+  {
+   "id": "exam",
+   "t0": 62.5,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "两万间号舍。",
+   "mourn": false
+  },
+  {
+   "id": "yunjin",
+   "t0": 65.625,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "寸锦寸金。",
+   "mourn": false
+  },
+  {
+   "id": "novels",
+   "t0": 68.125,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "写进了小说。",
+   "mourn": false
+  },
+  {
+   "id": "treaty",
+   "t0": 71.25,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "国门洞开。",
+   "mourn": false
+  },
+  {
+   "id": "tianjing",
+   "t0": 73.75,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "定都天京。",
+   "mourn": false
+  },
+  {
+   "id": "republic",
+   "t0": 76.25,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "共和。",
+   "mourn": false
+  },
+  {
+   "id": "ncu",
+   "t0": 78.75,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "P",
+   "key": "国立中央大学。",
+   "mourn": false
+  },
+  {
+   "id": "sunyat",
+   "t0": 81.875,
+   "dur": 4.375,
+   "b": 7,
+   "bg": "P",
+   "key": "天下为公。",
+   "mourn": false
+  },
+  {
+   "id": "observatory",
+   "t0": 86.25,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "P",
+   "key": "仰望星空。",
+   "mourn": false
+  },
+  {
+   "id": "y1937",
+   "t0": 88.75,
+   "dur": 4.375,
+   "b": 7,
+   "bg": "D",
+   "key": "三十万。",
+   "mourn": true
+  },
+  {
+   "id": "remember",
+   "t0": 93.125,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "D",
+   "key": "为了和平。",
+   "mourn": true
+  },
+  {
+   "id": "bridge",
+   "t0": 96.25,
+   "dur": 3.75,
+   "b": 6,
+   "bg": "P",
+   "key": "架起长江大桥。",
+   "mourn": false
+  },
+  {
+   "id": "xinjiekou",
+   "t0": 100,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "G",
+   "key": "中华第一商圈。",
+   "mourn": false
+  },
+  {
+   "id": "xuanwu",
+   "t0": 103.125,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "G",
+   "key": "古今同框。",
+   "mourn": false
+  },
+  {
+   "id": "njnan",
+   "t0": 106.25,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "G",
+   "key": "亚洲最大高铁站。",
+   "mourn": false
+  },
+  {
+   "id": "niushou",
+   "t0": 109.375,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "G",
+   "key": "佛顶宫。",
+   "mourn": false
+  },
+  {
+   "id": "literature",
+   "t0": 112.5,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "G",
+   "key": "世界文学之都。",
+   "mourn": false
+  },
+  {
+   "id": "dushiquan",
+   "t0": 115,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "G",
+   "key": "国家级都市圈。",
+   "mourn": false
+  },
+  {
+   "id": "campus",
+   "t0": 118.125,
+   "dur": 2.5,
+   "b": 4,
+   "bg": "G",
+   "key": "无数个明天。",
+   "mourn": false
+  },
+  {
+   "id": "years",
+   "t0": 120.625,
+   "dur": 3.125,
+   "b": 5,
+   "bg": "G",
+   "key": "2500年。",
+   "mourn": false
+  },
+  {
+   "id": "light",
+   "t0": 123.75,
+   "dur": 3.75,
+   "b": 6,
+   "bg": "G",
+   "key": "从未熄灭。",
+   "mourn": false
+  },
+  {
+   "id": "come",
+   "t0": 127.5,
+   "dur": 5,
+   "b": 8,
+   "bg": "G",
+   "key": "来南京。",
+   "mourn": false
+  }
+ ]
+}

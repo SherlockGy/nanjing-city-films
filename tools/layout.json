@@ -1,0 +1,2319 @@
+{
+ "duration": 411.939,
+ "shots": [
+  {
+   "idx": 0,
+   "img": "g_paper",
+   "beat": "open",
+   "tr": "black",
+   "start": 0,
+   "end": 5.5,
+   "td": 2,
+   "vis0": 0,
+   "vis1": 6.25,
+   "fx": [
+    "inkdrop"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 1,
+   "img": "g_inkwater",
+   "beat": "L1",
+   "tr": "ink",
+   "start": 5.5,
+   "end": 9.621,
+   "td": 1.5,
+   "vis0": 4.75,
+   "vis1": 10.271,
+   "fx": [
+    "swirl"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 2,
+   "img": "g_zhongshan",
+   "beat": "L2",
+   "tr": "wash",
+   "start": 9.621,
+   "end": 13.162417910447761,
+   "td": 1.3,
+   "vis0": 8.971,
+   "vis1": 13.863618656716417,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 3,
+   "img": "w_shitoucheng",
+   "beat": "L2",
+   "tr": "ink",
+   "start": 13.162417910447761,
+   "end": 15.712238805970149,
+   "td": 1.4024014925373132,
+   "vis0": 12.461217164179105,
+   "vis1": 16.362238805970147,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 4,
+   "img": "g_panorama",
+   "beat": "L2",
+   "tr": "wash",
+   "start": 15.712238805970149,
+   "end": 19.112,
+   "td": 1.3,
+   "vis0": 15.062238805970148,
+   "vis1": 19.662,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 5,
+   "img": "g_stonecity",
+   "beat": "L3",
+   "tr": "brush",
+   "start": 19.112,
+   "end": 28.499,
+   "td": 1.1,
+   "vis0": 18.561999999999998,
+   "vis1": 29.249,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 6,
+   "img": "g_burygold",
+   "beat": "L5",
+   "tr": "ink",
+   "start": 28.499,
+   "end": 36.251,
+   "td": 1.5,
+   "vis0": 27.749,
+   "vis1": 36.900999999999996,
+   "fx": [
+    "gold"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 7,
+   "img": "g_paper",
+   "beat": "L5b",
+   "tr": "wash",
+   "start": 36.251,
+   "end": 41.773,
+   "td": 1.3,
+   "vis0": 35.601,
+   "vis1": 42.523,
+   "fx": [
+    "gold"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 8,
+   "img": "g_oldmap",
+   "beat": "L6",
+   "tr": "ink",
+   "start": 41.773,
+   "end": 49.545,
+   "td": 1.5,
+   "vis0": 41.023,
+   "vis1": 50.295,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 9,
+   "img": "w_zhongshan_xuanwu",
+   "beat": "L7",
+   "tr": "ink",
+   "start": 49.545,
+   "end": 59.029,
+   "td": 1.5,
+   "vis0": 48.795,
+   "vis1": 59.779,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 10,
+   "img": "g_jianye",
+   "beat": "L8",
+   "tr": "scroll",
+   "start": 59.029,
+   "end": 73.085,
+   "td": 1.5,
+   "vis0": 58.279,
+   "vis1": 73.835,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 11,
+   "img": "g_literati",
+   "beat": "L9",
+   "tr": "ink",
+   "start": 73.085,
+   "end": 77.69627272727271,
+   "td": 1.5,
+   "vis0": 72.335,
+   "vis1": 78.34627272727272,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 12,
+   "img": "w_wuyixiang",
+   "beat": "L9",
+   "tr": "wash",
+   "start": 77.69627272727271,
+   "end": 81.539,
+   "td": 1.3,
+   "vis0": 77.04627272727271,
+   "vis1": 82.289,
+   "fx": [],
+   "season": null,
+   "label": "乌衣巷"
+  },
+  {
+   "idx": 13,
+   "img": "g_wuyi_swallows",
+   "beat": "L10",
+   "tr": "ink",
+   "start": 81.539,
+   "end": 89.324,
+   "td": 1.5,
+   "vis0": 80.789,
+   "vis1": 89.874,
+   "fx": [
+    "swallows"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 14,
+   "img": "g_liuxie",
+   "beat": "L11",
+   "tr": "brush",
+   "start": 89.324,
+   "end": 98.969,
+   "td": 1.1,
+   "vis0": 88.774,
+   "vis1": 99.719,
+   "fx": [
+    "lamp"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 15,
+   "img": "w_qixia",
+   "beat": "L12",
+   "tr": "ink",
+   "start": 98.969,
+   "end": 102.166,
+   "td": 1.5,
+   "vis0": 98.219,
+   "vis1": 102.816,
+   "fx": [],
+   "season": null,
+   "label": "栖霞寺"
+  },
+  {
+   "idx": 16,
+   "img": "g_temples_rain",
+   "beat": "L13",
+   "tr": "wash",
+   "start": 102.166,
+   "end": 109.14,
+   "td": 1.3,
+   "vis0": 101.51599999999999,
+   "vis1": 109.89,
+   "fx": [
+    "rain",
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 17,
+   "img": "w_jiming_pagoda",
+   "beat": "L14",
+   "tr": "ink",
+   "start": 109.14,
+   "end": 113.2905,
+   "td": 1.5,
+   "vis0": 108.39,
+   "vis1": 113.9405,
+   "fx": [
+    "rain"
+   ],
+   "season": null,
+   "label": "鸡鸣寺"
+  },
+  {
+   "idx": 18,
+   "img": "w_taicheng",
+   "beat": "L14",
+   "tr": "wash",
+   "start": 113.2905,
+   "end": 117.441,
+   "td": 1.3,
+   "vis0": 112.64049999999999,
+   "vis1": 117.991,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": "台城"
+  },
+  {
+   "idx": 19,
+   "img": "w_xiaoling",
+   "beat": "L15",
+   "tr": "brush",
+   "start": 117.441,
+   "end": 127.195,
+   "td": 1.1,
+   "vis0": 116.891,
+   "vis1": 127.90793749999999,
+   "fx": [],
+   "season": null,
+   "label": "明孝陵"
+  },
+  {
+   "idx": 20,
+   "img": "g_wallbuild",
+   "beat": "L16",
+   "tr": "ink",
+   "start": 127.195,
+   "end": 129.7875,
+   "td": 1.4258750000000007,
+   "vis0": 126.4820625,
+   "vis1": 130.4375,
+   "fx": [
+    "dust"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 21,
+   "img": "w_zhonghuamen",
+   "beat": "L16",
+   "tr": "wash",
+   "start": 129.7875,
+   "end": 132.38,
+   "td": 1.3,
+   "vis0": 129.1375,
+   "vis1": 132.93,
+   "fx": [],
+   "season": null,
+   "label": "中华门"
+  },
+  {
+   "idx": 22,
+   "img": "w_wallbrick",
+   "beat": "L17",
+   "tr": "brush",
+   "start": 132.38,
+   "end": 143.791,
+   "td": 1.1,
+   "vis0": 131.82999999999998,
+   "vis1": 144.541,
+   "fx": [],
+   "season": null,
+   "label": "城砖铭文"
+  },
+  {
+   "idx": 23,
+   "img": "w_citywall",
+   "beat": "L18",
+   "tr": "ink",
+   "start": 143.791,
+   "end": 148.975,
+   "td": 1.5,
+   "vis0": 143.041,
+   "vis1": 149.725,
+   "fx": [],
+   "season": null,
+   "label": "明城墙"
+  },
+  {
+   "idx": 24,
+   "img": "g_zhenghe",
+   "beat": "L19",
+   "tr": "scroll",
+   "start": 148.975,
+   "end": 157.733,
+   "td": 1.5,
+   "vis0": 148.225,
+   "vis1": 158.483,
+   "fx": [
+    "waves"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 25,
+   "img": "g_porcelain_tower",
+   "beat": "L20",
+   "tr": "ink",
+   "start": 157.733,
+   "end": 162.43334782608696,
+   "td": 1.5,
+   "vis0": 156.983,
+   "vis1": 163.08334782608696,
+   "fx": [
+    "glow"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 26,
+   "img": "w_baoen",
+   "beat": "L20",
+   "tr": "wash",
+   "start": 162.43334782608696,
+   "end": 166.049,
+   "td": 1.3,
+   "vis0": 161.78334782608695,
+   "vis1": 166.799,
+   "fx": [],
+   "season": null,
+   "label": "大报恩寺"
+  },
+  {
+   "idx": 27,
+   "img": "w_xiaoling_elephant",
+   "beat": "L21",
+   "tr": "ink",
+   "start": 166.049,
+   "end": 173.079,
+   "td": 1.5,
+   "vis0": 165.299,
+   "vis1": 173.829,
+   "fx": [
+    "leaves"
+   ],
+   "season": null,
+   "label": "明孝陵 · 石象路"
+  },
+  {
+   "idx": 28,
+   "img": "g_qinhuai_old",
+   "beat": "L22",
+   "tr": "ink",
+   "start": 173.079,
+   "end": 177.46590476190477,
+   "td": 1.5,
+   "vis0": 172.329,
+   "vis1": 178.11590476190477,
+   "fx": [
+    "lanterns",
+    "ripple"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 29,
+   "img": "w_qinhuai_night",
+   "beat": "L22",
+   "tr": "wash",
+   "start": 177.46590476190477,
+   "end": 181.454,
+   "td": 1.3,
+   "vis0": 176.81590476190476,
+   "vis1": 182.00400000000002,
+   "fx": [
+    "lanterns"
+   ],
+   "season": null,
+   "label": "秦淮河"
+  },
+  {
+   "idx": 30,
+   "img": "w_wenshu",
+   "beat": "L23",
+   "tr": "brush",
+   "start": 181.454,
+   "end": 187.321,
+   "td": 1.1,
+   "vis0": 180.904,
+   "vis1": 188.071,
+   "fx": [],
+   "season": null,
+   "label": "夫子庙"
+  },
+  {
+   "idx": 31,
+   "img": "w_gongyuan",
+   "beat": "L24",
+   "tr": "ink",
+   "start": 187.321,
+   "end": 192.66747368421053,
+   "td": 1.5,
+   "vis0": 186.571,
+   "vis1": 193.31747368421054,
+   "fx": [],
+   "season": null,
+   "label": "江南贡院"
+  },
+  {
+   "idx": 32,
+   "img": "g_exam",
+   "beat": "L24",
+   "tr": "wash",
+   "start": 192.66747368421053,
+   "end": 198.608,
+   "td": 1.3,
+   "vis0": 192.01747368421053,
+   "vis1": 199.15800000000002,
+   "fx": [
+    "candles"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 33,
+   "img": "w_qinhuai_day",
+   "beat": "L25",
+   "tr": "brush",
+   "start": 198.608,
+   "end": 204.18,
+   "td": 1.1,
+   "vis0": 198.058,
+   "vis1": 204.93,
+   "fx": [
+    "ripple"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 34,
+   "img": "g_honglou",
+   "beat": "L26",
+   "tr": "ink",
+   "start": 204.18,
+   "end": 215.233,
+   "td": 1.5,
+   "vis0": 203.43,
+   "vis1": 215.883,
+   "fx": [
+    "petals"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 35,
+   "img": "g_yunjin",
+   "beat": "L27",
+   "tr": "wash",
+   "start": 215.233,
+   "end": 219.68951724137932,
+   "td": 1.3,
+   "vis0": 214.583,
+   "vis1": 220.43951724137932,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 36,
+   "img": "w_yunjin_loom",
+   "beat": "L27",
+   "tr": "ink",
+   "start": 219.68951724137932,
+   "end": 223.33575862068966,
+   "td": 1.5,
+   "vis0": 218.93951724137932,
+   "vis1": 223.88575862068967,
+   "fx": [],
+   "season": null,
+   "label": "南京云锦 · 人类非物质文化遗产"
+  },
+  {
+   "idx": 37,
+   "img": "w_yunjin_fabric",
+   "beat": "L27",
+   "tr": "brush",
+   "start": 223.33575862068966,
+   "end": 226.982,
+   "td": 1.1,
+   "vis0": 222.78575862068965,
+   "vis1": 227.732,
+   "fx": [
+    "gold"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 38,
+   "img": "g_libai",
+   "beat": "L28",
+   "tr": "ink",
+   "start": 226.982,
+   "end": 232.1546,
+   "td": 1.5,
+   "vis0": 226.232,
+   "vis1": 232.8046,
+   "fx": [
+    "egrets",
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 39,
+   "img": "w_bailuzhou",
+   "beat": "L28",
+   "tr": "wash",
+   "start": 232.1546,
+   "end": 235.603,
+   "td": 1.3,
+   "vis0": 231.50459999999998,
+   "vis1": 236.25300000000001,
+   "fx": [],
+   "season": null,
+   "label": "白鹭洲"
+  },
+  {
+   "idx": 40,
+   "img": "w_museum",
+   "beat": "L29",
+   "tr": "wash",
+   "start": 235.603,
+   "end": 240.5085,
+   "td": 1.3,
+   "vis0": 234.953,
+   "vis1": 241.2585,
+   "fx": [],
+   "season": null,
+   "label": "南京博物院"
+  },
+  {
+   "idx": 41,
+   "img": "g_reading",
+   "beat": "L29",
+   "tr": "ink",
+   "start": 240.5085,
+   "end": 245.414,
+   "td": 1.5,
+   "vis0": 239.7585,
+   "vis1": 246.164,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 42,
+   "img": "w_presidential",
+   "beat": "L30",
+   "tr": "ink",
+   "start": 245.414,
+   "end": 252.288,
+   "td": 1.5,
+   "vis0": 244.664,
+   "vis1": 252.83800000000002,
+   "fx": [
+    "rain"
+   ],
+   "season": null,
+   "label": "总统府"
+  },
+  {
+   "idx": 43,
+   "img": "w_zhongshanling",
+   "beat": "L31",
+   "tr": "brush",
+   "start": 252.288,
+   "end": 262.222,
+   "td": 1.1,
+   "vis0": 251.738,
+   "vis1": 262.822,
+   "fx": [],
+   "season": null,
+   "label": "中山陵"
+  },
+  {
+   "idx": 44,
+   "img": "w_memorial",
+   "beat": "L32",
+   "tr": "fade",
+   "start": 262.222,
+   "end": 271.111,
+   "td": 1.2,
+   "vis0": 261.62199999999996,
+   "vis1": 271.711,
+   "fx": [
+    "ash"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 45,
+   "img": "g_memorial",
+   "beat": "L33",
+   "tr": "fade",
+   "start": 271.111,
+   "end": 282.752,
+   "td": 1.2,
+   "vis0": 270.51099999999997,
+   "vis1": 283.402,
+   "fx": [
+    "candles"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 46,
+   "img": "g_peace",
+   "beat": "L34",
+   "tr": "wash",
+   "start": 282.752,
+   "end": 289.152,
+   "td": 1.3,
+   "vis0": 282.10200000000003,
+   "vis1": 289.902,
+   "fx": [
+    "dawn"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 47,
+   "img": "w_bridge_day",
+   "beat": "L35",
+   "tr": "ink",
+   "start": 289.152,
+   "end": 295.70509090909087,
+   "td": 1.5,
+   "vis0": 288.402,
+   "vis1": 296.35509090909085,
+   "fx": [],
+   "season": null,
+   "label": "南京长江大桥"
+  },
+  {
+   "idx": 48,
+   "img": "w_bridge_night",
+   "beat": "L35",
+   "tr": "wash",
+   "start": 295.70509090909087,
+   "end": 301.166,
+   "td": 1.3,
+   "vis0": 295.0550909090909,
+   "vis1": 301.716,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 49,
+   "img": "w_laomendong",
+   "beat": "L36",
+   "tr": "brush",
+   "start": 301.166,
+   "end": 307.21,
+   "td": 1.1,
+   "vis0": 300.616,
+   "vis1": 307.96,
+   "fx": [],
+   "season": null,
+   "label": "老门东"
+  },
+  {
+   "idx": 50,
+   "img": "w_jiming_sakura",
+   "beat": "L37",
+   "tr": "ink",
+   "start": 307.21,
+   "end": 312.2371304347826,
+   "td": 1.5,
+   "vis0": 306.46,
+   "vis1": 312.8871304347826,
+   "fx": [
+    "petals"
+   ],
+   "season": "春",
+   "label": null
+  },
+  {
+   "idx": 51,
+   "img": "w_lotus",
+   "beat": "L37",
+   "tr": "wash",
+   "start": 312.2371304347826,
+   "end": 315.37908695652175,
+   "td": 1.3,
+   "vis0": 311.58713043478264,
+   "vis1": 316.12908695652175,
+   "fx": [],
+   "season": "夏",
+   "label": null
+  },
+  {
+   "idx": 52,
+   "img": "w_qixia_maple",
+   "beat": "L37",
+   "tr": "ink",
+   "start": 315.37908695652175,
+   "end": 318.5210434782609,
+   "td": 1.5,
+   "vis0": 314.62908695652175,
+   "vis1": 319.17104347826086,
+   "fx": [
+    "leaves"
+   ],
+   "season": "秋",
+   "label": null
+  },
+  {
+   "idx": 53,
+   "img": "w_plum",
+   "beat": "L37",
+   "tr": "wash",
+   "start": 318.5210434782609,
+   "end": 321.663,
+   "td": 1.3,
+   "vis0": 317.8710434782609,
+   "vis1": 322.213,
+   "fx": [
+    "petals"
+   ],
+   "season": "冬",
+   "label": null
+  },
+  {
+   "idx": 54,
+   "img": "w_wutong",
+   "beat": "L38",
+   "tr": "brush",
+   "start": 321.663,
+   "end": 324.2735,
+   "td": 1.1,
+   "vis0": 321.113,
+   "vis1": 324.99138750000003,
+   "fx": [
+    "sunbeam"
+   ],
+   "season": null,
+   "label": "梧桐大道"
+  },
+  {
+   "idx": 55,
+   "img": "w_meilinggong",
+   "beat": "L38",
+   "tr": "ink",
+   "start": 324.2735,
+   "end": 326.884,
+   "td": 1.4357750000000011,
+   "vis0": 323.5556125,
+   "vis1": 327.534,
+   "fx": [],
+   "season": null,
+   "label": "美龄宫"
+  },
+  {
+   "idx": 56,
+   "img": "w_yaxue",
+   "beat": "L39",
+   "tr": "wash",
+   "start": 326.884,
+   "end": 333.836,
+   "td": 1.3,
+   "vis0": 326.23400000000004,
+   "vis1": 334.586,
+   "fx": [
+    "steam"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 57,
+   "img": "g_ducks",
+   "beat": "L41",
+   "tr": "ink",
+   "start": 333.836,
+   "end": 337.358,
+   "td": 1.5,
+   "vis0": 333.086,
+   "vis1": 337.358,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 58,
+   "img": "w_duck",
+   "beat": "L41",
+   "tr": "cut",
+   "start": 337.358,
+   "end": 340.293,
+   "td": 0,
+   "vis0": 337.358,
+   "vis1": 340.843,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 59,
+   "img": "w_yihe",
+   "beat": "L42",
+   "tr": "brush",
+   "start": 340.293,
+   "end": 345.753,
+   "td": 1.1,
+   "vis0": 339.743,
+   "vis1": 346.503,
+   "fx": [],
+   "season": null,
+   "label": "颐和路"
+  },
+  {
+   "idx": 60,
+   "img": "w_snow",
+   "beat": "L44",
+   "tr": "ink",
+   "start": 345.753,
+   "end": 351.299,
+   "td": 1.5,
+   "vis0": 345.003,
+   "vis1": 351.849,
+   "fx": [
+    "snow"
+   ],
+   "season": null,
+   "label": "秦淮雪"
+  },
+  {
+   "idx": 61,
+   "img": "w_eye",
+   "beat": "L45",
+   "tr": "brush",
+   "start": 351.299,
+   "end": 359.516,
+   "td": 1.1,
+   "vis0": 350.74899999999997,
+   "vis1": 360.266,
+   "fx": [],
+   "season": null,
+   "label": "南京眼"
+  },
+  {
+   "idx": 62,
+   "img": "w_zifeng",
+   "beat": "L46",
+   "tr": "ink",
+   "start": 359.516,
+   "end": 363.2825,
+   "td": 1.5,
+   "vis0": 358.766,
+   "vis1": 363.9325,
+   "fx": [],
+   "season": null,
+   "label": "紫峰大厦"
+  },
+  {
+   "idx": 63,
+   "img": "w_seu",
+   "beat": "L46",
+   "tr": "wash",
+   "start": 363.2825,
+   "end": 367.049,
+   "td": 1.3,
+   "vis0": 362.63250000000005,
+   "vis1": 367.50089534883716,
+   "fx": [],
+   "season": null,
+   "label": "东南大学"
+  },
+  {
+   "idx": 64,
+   "img": "w_metro",
+   "beat": "L47",
+   "tr": "brush",
+   "start": 367.049,
+   "end": 368.69225581395347,
+   "td": 0.9037906976744182,
+   "vis0": 366.5971046511628,
+   "vis1": 369.14415116279065,
+   "fx": [],
+   "season": null,
+   "label": "南京南站"
+  },
+  {
+   "idx": 65,
+   "img": "w_lantern",
+   "beat": "L47",
+   "tr": "ink",
+   "start": 368.69225581395347,
+   "end": 370.33551162790695,
+   "td": 0.9037906976744182,
+   "vis0": 368.2403604651163,
+   "vis1": 370.33551162790695,
+   "fx": [
+    "lanterns"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 66,
+   "img": "w_youth",
+   "beat": "L47",
+   "tr": "cut",
+   "start": 370.33551162790695,
+   "end": 371.97876744186044,
+   "td": 0,
+   "vis0": 370.33551162790695,
+   "vis1": 372.4306627906976,
+   "fx": [],
+   "season": null,
+   "label": "南京国际青年文化中心"
+  },
+  {
+   "idx": 67,
+   "img": "w_skyline_night",
+   "beat": "L47",
+   "tr": "wash",
+   "start": 371.97876744186044,
+   "end": 374.115,
+   "td": 0.9037906976744182,
+   "vis0": 371.52687209302326,
+   "vis1": 374.7024639534884,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 68,
+   "img": "g_modern_ink",
+   "beat": "L48",
+   "tr": "ink",
+   "start": 374.115,
+   "end": 380.407,
+   "td": 1.1749279069767624,
+   "vis0": 373.5275360465116,
+   "vis1": 381.05699999999996,
+   "fx": [
+    "citylights"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 69,
+   "img": "scroll",
+   "beat": "L49",
+   "tr": "wash",
+   "start": 380.407,
+   "end": 395.16,
+   "td": 1.3,
+   "vis0": 379.757,
+   "vis1": 395.7309,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 70,
+   "img": "g_brush",
+   "beat": "L51",
+   "tr": "wash",
+   "start": 395.16,
+   "end": 397.236,
+   "td": 1.1417999999999808,
+   "vis0": 394.58910000000003,
+   "vis1": 397.8069,
+   "fx": [],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 71,
+   "img": "g_paper",
+   "beat": "L52",
+   "tr": "ink",
+   "start": 397.236,
+   "end": 405.939,
+   "td": 1.1417999999999808,
+   "vis0": 396.6651,
+   "vis1": 406.53900000000004,
+   "fx": [
+    "mist"
+   ],
+   "season": null,
+   "label": null
+  },
+  {
+   "idx": 72,
+   "img": "credits",
+   "beat": "credits",
+   "tr": "fade",
+   "start": 405.939,
+   "end": 411.939,
+   "td": 1.2,
+   "vis0": 405.339,
+   "vis1": 411.939,
+   "fx": [],
+   "season": null,
+   "label": null
+  }
+ ],
+ "texts": [
+  {
+   "k": "poem",
+   "beat": "L4",
+   "bs": 23.809,
+   "bd": 4.69,
+   "voice": {
+    "start": 24.109,
+    "dur": 2.79
+   },
+   "at": null
+  },
+  {
+   "k": "title",
+   "beat": "L5b",
+   "bs": 36.251,
+   "bd": 5.522,
+   "voice": {
+    "start": 36.851,
+    "dur": 0.722
+   },
+   "at": 0.45
+  },
+  {
+   "k": "names",
+   "beat": "L6",
+   "bs": 41.773,
+   "bd": 7.772,
+   "voice": {
+    "start": 42.273,
+    "dur": 6.672
+   },
+   "at": null
+  },
+  {
+   "k": "pop",
+   "beat": "L7",
+   "bs": 49.545,
+   "bd": 9.484,
+   "voice": {
+    "start": 50.045,
+    "dur": 6.384
+   },
+   "at": 0.86
+  },
+  {
+   "k": "chapter",
+   "beat": "L8",
+   "bs": 59.029,
+   "bd": 14.056,
+   "voice": {
+    "start": 62.229,
+    "dur": 10.056
+   },
+   "at": null
+  },
+  {
+   "k": "poem",
+   "beat": "L10",
+   "bs": 81.539,
+   "bd": 7.785,
+   "voice": {
+    "start": 82.139,
+    "dur": 5.585
+   },
+   "at": null
+  },
+  {
+   "k": "note",
+   "beat": "L11",
+   "bs": 89.324,
+   "bd": 9.645,
+   "voice": {
+    "start": 89.824,
+    "dur": 8.545
+   },
+   "at": 0.12
+  },
+  {
+   "k": "note",
+   "beat": "L11",
+   "bs": 89.324,
+   "bd": 9.645,
+   "voice": {
+    "start": 89.824,
+    "dur": 8.545
+   },
+   "at": 0.45
+  },
+  {
+   "k": "poem",
+   "beat": "L13",
+   "bs": 102.166,
+   "bd": 6.974,
+   "voice": {
+    "start": 102.766,
+    "dur": 4.974
+   },
+   "at": null
+  },
+  {
+   "k": "chapter",
+   "beat": "L15",
+   "bs": 117.441,
+   "bd": 9.754,
+   "voice": {
+    "start": 120.441,
+    "dur": 6.154
+   },
+   "at": null
+  },
+  {
+   "k": "chapter",
+   "beat": "L22",
+   "bs": 173.079,
+   "bd": 8.375,
+   "voice": {
+    "start": 176.079,
+    "dur": 4.775
+   },
+   "at": null
+  },
+  {
+   "k": "poem",
+   "beat": "L23",
+   "bs": 181.454,
+   "bd": 5.867,
+   "voice": {
+    "start": 181.954,
+    "dur": 4.567
+   },
+   "at": 0.15
+  },
+  {
+   "k": "names",
+   "beat": "L24",
+   "bs": 187.321,
+   "bd": 11.287,
+   "voice": {
+    "start": 187.821,
+    "dur": 10.187
+   },
+   "at": 0.55
+  },
+  {
+   "k": "note",
+   "beat": "L25",
+   "bs": 198.608,
+   "bd": 5.572,
+   "voice": {
+    "start": 199.108,
+    "dur": 4.672
+   },
+   "at": 0.45
+  },
+  {
+   "k": "note",
+   "beat": "L26",
+   "bs": 204.18,
+   "bd": 11.053,
+   "voice": {
+    "start": 204.68,
+    "dur": 9.753
+   },
+   "at": 0.6
+  },
+  {
+   "k": "pop",
+   "beat": "L27",
+   "bs": 215.233,
+   "bd": 11.749,
+   "voice": {
+    "start": 215.733,
+    "dur": 10.249
+   },
+   "at": 0.86
+  },
+  {
+   "k": "poem",
+   "beat": "L28",
+   "bs": 226.982,
+   "bd": 8.621,
+   "voice": {
+    "start": 227.582,
+    "dur": 6.421
+   },
+   "at": null
+  },
+  {
+   "k": "pop",
+   "beat": "L29",
+   "bs": 235.603,
+   "bd": 9.811,
+   "voice": {
+    "start": 236.103,
+    "dur": 7.711
+   },
+   "at": 0.18
+  },
+  {
+   "k": "chapter",
+   "beat": "L30",
+   "bs": 245.414,
+   "bd": 6.874,
+   "voice": {
+    "start": 248.414,
+    "dur": 3.074
+   },
+   "at": null
+  },
+  {
+   "k": "poem",
+   "beat": "L31",
+   "bs": 252.288,
+   "bd": 9.934,
+   "voice": {
+    "start": 252.788,
+    "dur": 8.434
+   },
+   "at": 0.7
+  },
+  {
+   "k": "chapter",
+   "beat": "L36",
+   "bs": 301.166,
+   "bd": 6.044,
+   "voice": {
+    "start": 304.166,
+    "dur": 2.244
+   },
+   "at": null
+  },
+  {
+   "k": "pop",
+   "beat": "L40",
+   "bs": 331.426,
+   "bd": 2.41,
+   "voice": {
+    "start": 331.626,
+    "dur": 1.41
+   },
+   "at": 0.05
+  },
+  {
+   "k": "pop",
+   "beat": "L43",
+   "bs": 343.824,
+   "bd": 1.929,
+   "voice": {
+    "start": 344.024,
+    "dur": 0.829
+   },
+   "at": 0.05
+  },
+  {
+   "k": "chapter",
+   "beat": "L45",
+   "bs": 351.299,
+   "bd": 8.217,
+   "voice": {
+    "start": 354.299,
+    "dur": 4.817
+   },
+   "at": null
+  },
+  {
+   "k": "chapter",
+   "beat": "L49",
+   "bs": 380.407,
+   "bd": 7.174,
+   "voice": {
+    "start": 382.607,
+    "dur": 4.374
+   },
+   "at": null
+  },
+  {
+   "k": "final",
+   "beat": "L52",
+   "bs": 397.236,
+   "bd": 8.703,
+   "voice": {
+    "start": 397.736,
+    "dur": 0.703
+   },
+   "at": 1.3
+  }
+ ],
+ "dark": [
+  [
+   262.222,
+   271.111
+  ],
+  [
+   271.111,
+   282.752
+  ]
+ ],
+ "voice": [
+  {
+   "id": "L1",
+   "file": "assets/voice/L1.wav",
+   "start": 5.7,
+   "dur": 2.521,
+   "v": "N"
+  },
+  {
+   "id": "L2",
+   "file": "assets/voice/L2.wav",
+   "start": 10.121,
+   "dur": 7.791,
+   "v": "N"
+  },
+  {
+   "id": "L3",
+   "file": "assets/voice/L3.wav",
+   "start": 19.512,
+   "dur": 3.997,
+   "v": "N"
+  },
+  {
+   "id": "L4",
+   "file": "assets/voice/L4.wav",
+   "start": 24.109,
+   "dur": 2.79,
+   "v": "N"
+  },
+  {
+   "id": "L5",
+   "file": "assets/voice/L5.wav",
+   "start": 28.999,
+   "dur": 7.152,
+   "v": "N"
+  },
+  {
+   "id": "L5b",
+   "file": "assets/voice/L5b.wav",
+   "start": 36.851,
+   "dur": 0.722,
+   "v": "N"
+  },
+  {
+   "id": "L6",
+   "file": "assets/voice/L6.wav",
+   "start": 42.273,
+   "dur": 6.672,
+   "v": "N"
+  },
+  {
+   "id": "L7",
+   "file": "assets/voice/L7.wav",
+   "start": 50.045,
+   "dur": 6.384,
+   "v": "N"
+  },
+  {
+   "id": "L8",
+   "file": "assets/voice/L8.wav",
+   "start": 62.229,
+   "dur": 10.056,
+   "v": "N"
+  },
+  {
+   "id": "L9",
+   "file": "assets/voice/L9.wav",
+   "start": 73.585,
+   "dur": 7.354,
+   "v": "N"
+  },
+  {
+   "id": "L10",
+   "file": "assets/voice/L10.wav",
+   "start": 82.139,
+   "dur": 5.585,
+   "v": "P"
+  },
+  {
+   "id": "L11",
+   "file": "assets/voice/L11.wav",
+   "start": 89.824,
+   "dur": 8.545,
+   "v": "N"
+  },
+  {
+   "id": "L12",
+   "file": "assets/voice/L12.wav",
+   "start": 99.269,
+   "dur": 2.497,
+   "v": "N"
+  },
+  {
+   "id": "L13",
+   "file": "assets/voice/L13.wav",
+   "start": 102.766,
+   "dur": 4.974,
+   "v": "P"
+  },
+  {
+   "id": "L14",
+   "file": "assets/voice/L14.wav",
+   "start": 109.64,
+   "dur": 6.601,
+   "v": "N"
+  },
+  {
+   "id": "L15",
+   "file": "assets/voice/L15.wav",
+   "start": 120.441,
+   "dur": 6.154,
+   "v": "N"
+  },
+  {
+   "id": "L16",
+   "file": "assets/voice/L16.wav",
+   "start": 127.695,
+   "dur": 4.285,
+   "v": "N"
+  },
+  {
+   "id": "L17",
+   "file": "assets/voice/L17.wav",
+   "start": 132.88,
+   "dur": 10.311,
+   "v": "N"
+  },
+  {
+   "id": "L18",
+   "file": "assets/voice/L18.wav",
+   "start": 144.291,
+   "dur": 3.884,
+   "v": "N"
+  },
+  {
+   "id": "L19",
+   "file": "assets/voice/L19.wav",
+   "start": 149.475,
+   "dur": 7.658,
+   "v": "N"
+  },
+  {
+   "id": "L20",
+   "file": "assets/voice/L20.wav",
+   "start": 158.233,
+   "dur": 7.216,
+   "v": "N"
+  },
+  {
+   "id": "L21",
+   "file": "assets/voice/L21.wav",
+   "start": 166.549,
+   "dur": 4.93,
+   "v": "N"
+  },
+  {
+   "id": "L22",
+   "file": "assets/voice/L22.wav",
+   "start": 176.079,
+   "dur": 4.775,
+   "v": "N"
+  },
+  {
+   "id": "L23",
+   "file": "assets/voice/L23.wav",
+   "start": 181.954,
+   "dur": 4.567,
+   "v": "N"
+  },
+  {
+   "id": "L24",
+   "file": "assets/voice/L24.wav",
+   "start": 187.821,
+   "dur": 10.187,
+   "v": "N"
+  },
+  {
+   "id": "L25",
+   "file": "assets/voice/L25.wav",
+   "start": 199.108,
+   "dur": 4.672,
+   "v": "N"
+  },
+  {
+   "id": "L26",
+   "file": "assets/voice/L26.wav",
+   "start": 204.68,
+   "dur": 9.753,
+   "v": "N"
+  },
+  {
+   "id": "L27",
+   "file": "assets/voice/L27.wav",
+   "start": 215.733,
+   "dur": 10.249,
+   "v": "N"
+  },
+  {
+   "id": "L28",
+   "file": "assets/voice/L28.wav",
+   "start": 227.582,
+   "dur": 6.421,
+   "v": "P"
+  },
+  {
+   "id": "L29",
+   "file": "assets/voice/L29.wav",
+   "start": 236.103,
+   "dur": 7.711,
+   "v": "N"
+  },
+  {
+   "id": "L30",
+   "file": "assets/voice/L30.wav",
+   "start": 248.414,
+   "dur": 3.074,
+   "v": "N"
+  },
+  {
+   "id": "L31",
+   "file": "assets/voice/L31.wav",
+   "start": 252.788,
+   "dur": 8.434,
+   "v": "N"
+  },
+  {
+   "id": "L32",
+   "file": "assets/voice/L32.wav",
+   "start": 263.022,
+   "dur": 6.489,
+   "v": "N"
+  },
+  {
+   "id": "L33",
+   "file": "assets/voice/L33.wav",
+   "start": 271.611,
+   "dur": 8.341,
+   "v": "N"
+  },
+  {
+   "id": "L34",
+   "file": "assets/voice/L34.wav",
+   "start": 283.052,
+   "dur": 4.7,
+   "v": "N"
+  },
+  {
+   "id": "L35",
+   "file": "assets/voice/L35.wav",
+   "start": 289.652,
+   "dur": 10.114,
+   "v": "N"
+  },
+  {
+   "id": "L36",
+   "file": "assets/voice/L36.wav",
+   "start": 304.166,
+   "dur": 2.244,
+   "v": "N"
+  },
+  {
+   "id": "L37",
+   "file": "assets/voice/L37.wav",
+   "start": 307.71,
+   "dur": 13.353,
+   "v": "N"
+  },
+  {
+   "id": "L38",
+   "file": "assets/voice/L38.wav",
+   "start": 322.163,
+   "dur": 4.121,
+   "v": "N"
+  },
+  {
+   "id": "L39",
+   "file": "assets/voice/L39.wav",
+   "start": 327.084,
+   "dur": 4.242,
+   "v": "N"
+  },
+  {
+   "id": "L40",
+   "file": "assets/voice/L40.wav",
+   "start": 331.626,
+   "dur": 1.41,
+   "v": "A"
+  },
+  {
+   "id": "L41",
+   "file": "assets/voice/L41.wav",
+   "start": 334.336,
+   "dur": 4.757,
+   "v": "N"
+  },
+  {
+   "id": "L42",
+   "file": "assets/voice/L42.wav",
+   "start": 340.793,
+   "dur": 2.931,
+   "v": "N"
+  },
+  {
+   "id": "L43",
+   "file": "assets/voice/L43.wav",
+   "start": 344.024,
+   "dur": 0.829,
+   "v": "S"
+  },
+  {
+   "id": "L44",
+   "file": "assets/voice/L44.wav",
+   "start": 346.253,
+   "dur": 3.446,
+   "v": "N"
+  },
+  {
+   "id": "L45",
+   "file": "assets/voice/L45.wav",
+   "start": 354.299,
+   "dur": 4.817,
+   "v": "N"
+  },
+  {
+   "id": "L46",
+   "file": "assets/voice/L46.wav",
+   "start": 360.016,
+   "dur": 6.633,
+   "v": "N"
+  },
+  {
+   "id": "L47",
+   "file": "assets/voice/L47.wav",
+   "start": 367.549,
+   "dur": 6.166,
+   "v": "N"
+  },
+  {
+   "id": "L48",
+   "file": "assets/voice/L48.wav",
+   "start": 374.615,
+   "dur": 3.592,
+   "v": "N"
+  },
+  {
+   "id": "L49",
+   "file": "assets/voice/L49.wav",
+   "start": 382.607,
+   "dur": 4.374,
+   "v": "N"
+  },
+  {
+   "id": "L50",
+   "file": "assets/voice/L50.wav",
+   "start": 388.081,
+   "dur": 6.079,
+   "v": "N"
+  },
+  {
+   "id": "L51",
+   "file": "assets/voice/L51.wav",
+   "start": 395.56,
+   "dur": 1.076,
+   "v": "N"
+  },
+  {
+   "id": "L52",
+   "file": "assets/voice/L52.wav",
+   "start": 397.736,
+   "dur": 0.703,
+   "v": "N"
+  }
+ ],
+ "music": [
+  {
+   "id": "m1",
+   "t": 0
+  },
+  {
+   "id": "m1b",
+   "t": 59.029
+  },
+  {
+   "id": "m2",
+   "t": 117.441
+  },
+  {
+   "id": "m3",
+   "t": 173.079
+  },
+  {
+   "id": "m4",
+   "t": 245.414
+  },
+  {
+   "id": "m5",
+   "t": 301.166
+  },
+  {
+   "id": "m6",
+   "t": 351.299
+  }
+ ],
+ "sfx": [
+  {
+   "type": "title",
+   "t": 36.851,
+   "beat": "L5b"
+  },
+  {
+   "type": "siren",
+   "t": 271.611,
+   "beat": "L33"
+  },
+  {
+   "type": "drop",
+   "t": 397.736,
+   "beat": "L52"
+  }
+ ],
+ "beats": [
+  {
+   "id": "open",
+   "start": 0,
+   "dur": 5.5,
+   "voice": null
+  },
+  {
+   "id": "L1",
+   "start": 5.5,
+   "dur": 4.121,
+   "voice": {
+    "start": 5.7,
+    "dur": 2.521
+   }
+  },
+  {
+   "id": "L2",
+   "start": 9.621,
+   "dur": 9.491,
+   "voice": {
+    "start": 10.121,
+    "dur": 7.791
+   }
+  },
+  {
+   "id": "L3",
+   "start": 19.112,
+   "dur": 4.697,
+   "voice": {
+    "start": 19.512,
+    "dur": 3.997
+   }
+  },
+  {
+   "id": "L4",
+   "start": 23.809,
+   "dur": 4.69,
+   "voice": {
+    "start": 24.109,
+    "dur": 2.79
+   }
+  },
+  {
+   "id": "L5",
+   "start": 28.499,
+   "dur": 7.752,
+   "voice": {
+    "start": 28.999,
+    "dur": 7.152
+   }
+  },
+  {
+   "id": "L5b",
+   "start": 36.251,
+   "dur": 5.522,
+   "voice": {
+    "start": 36.851,
+    "dur": 0.722
+   }
+  },
+  {
+   "id": "L6",
+   "start": 41.773,
+   "dur": 7.772,
+   "voice": {
+    "start": 42.273,
+    "dur": 6.672
+   }
+  },
+  {
+   "id": "L7",
+   "start": 49.545,
+   "dur": 9.484,
+   "voice": {
+    "start": 50.045,
+    "dur": 6.384
+   }
+  },
+  {
+   "id": "L8",
+   "start": 59.029,
+   "dur": 14.056,
+   "voice": {
+    "start": 62.229,
+    "dur": 10.056
+   }
+  },
+  {
+   "id": "L9",
+   "start": 73.085,
+   "dur": 8.454,
+   "voice": {
+    "start": 73.585,
+    "dur": 7.354
+   }
+  },
+  {
+   "id": "L10",
+   "start": 81.539,
+   "dur": 7.785,
+   "voice": {
+    "start": 82.139,
+    "dur": 5.585
+   }
+  },
+  {
+   "id": "L11",
+   "start": 89.324,
+   "dur": 9.645,
+   "voice": {
+    "start": 89.824,
+    "dur": 8.545
+   }
+  },
+  {
+   "id": "L12",
+   "start": 98.969,
+   "dur": 3.197,
+   "voice": {
+    "start": 99.269,
+    "dur": 2.497
+   }
+  },
+  {
+   "id": "L13",
+   "start": 102.166,
+   "dur": 6.974,
+   "voice": {
+    "start": 102.766,
+    "dur": 4.974
+   }
+  },
+  {
+   "id": "L14",
+   "start": 109.14,
+   "dur": 8.301,
+   "voice": {
+    "start": 109.64,
+    "dur": 6.601
+   }
+  },
+  {
+   "id": "L15",
+   "start": 117.441,
+   "dur": 9.754,
+   "voice": {
+    "start": 120.441,
+    "dur": 6.154
+   }
+  },
+  {
+   "id": "L16",
+   "start": 127.195,
+   "dur": 5.185,
+   "voice": {
+    "start": 127.695,
+    "dur": 4.285
+   }
+  },
+  {
+   "id": "L17",
+   "start": 132.38,
+   "dur": 11.411,
+   "voice": {
+    "start": 132.88,
+    "dur": 10.311
+   }
+  },
+  {
+   "id": "L18",
+   "start": 143.791,
+   "dur": 5.184,
+   "voice": {
+    "start": 144.291,
+    "dur": 3.884
+   }
+  },
+  {
+   "id": "L19",
+   "start": 148.975,
+   "dur": 8.758,
+   "voice": {
+    "start": 149.475,
+    "dur": 7.658
+   }
+  },
+  {
+   "id": "L20",
+   "start": 157.733,
+   "dur": 8.316,
+   "voice": {
+    "start": 158.233,
+    "dur": 7.216
+   }
+  },
+  {
+   "id": "L21",
+   "start": 166.049,
+   "dur": 7.03,
+   "voice": {
+    "start": 166.549,
+    "dur": 4.93
+   }
+  },
+  {
+   "id": "L22",
+   "start": 173.079,
+   "dur": 8.375,
+   "voice": {
+    "start": 176.079,
+    "dur": 4.775
+   }
+  },
+  {
+   "id": "L23",
+   "start": 181.454,
+   "dur": 5.867,
+   "voice": {
+    "start": 181.954,
+    "dur": 4.567
+   }
+  },
+  {
+   "id": "L24",
+   "start": 187.321,
+   "dur": 11.287,
+   "voice": {
+    "start": 187.821,
+    "dur": 10.187
+   }
+  },
+  {
+   "id": "L25",
+   "start": 198.608,
+   "dur": 5.572,
+   "voice": {
+    "start": 199.108,
+    "dur": 4.672
+   }
+  },
+  {
+   "id": "L26",
+   "start": 204.18,
+   "dur": 11.053,
+   "voice": {
+    "start": 204.68,
+    "dur": 9.753
+   }
+  },
+  {
+   "id": "L27",
+   "start": 215.233,
+   "dur": 11.749,
+   "voice": {
+    "start": 215.733,
+    "dur": 10.249
+   }
+  },
+  {
+   "id": "L28",
+   "start": 226.982,
+   "dur": 8.621,
+   "voice": {
+    "start": 227.582,
+    "dur": 6.421
+   }
+  },
+  {
+   "id": "L29",
+   "start": 235.603,
+   "dur": 9.811,
+   "voice": {
+    "start": 236.103,
+    "dur": 7.711
+   }
+  },
+  {
+   "id": "L30",
+   "start": 245.414,
+   "dur": 6.874,
+   "voice": {
+    "start": 248.414,
+    "dur": 3.074
+   }
+  },
+  {
+   "id": "L31",
+   "start": 252.288,
+   "dur": 9.934,
+   "voice": {
+    "start": 252.788,
+    "dur": 8.434
+   }
+  },
+  {
+   "id": "L32",
+   "start": 262.222,
+   "dur": 8.889,
+   "voice": {
+    "start": 263.022,
+    "dur": 6.489
+   }
+  },
+  {
+   "id": "L33",
+   "start": 271.111,
+   "dur": 11.641,
+   "voice": {
+    "start": 271.611,
+    "dur": 8.341
+   }
+  },
+  {
+   "id": "L34",
+   "start": 282.752,
+   "dur": 6.4,
+   "voice": {
+    "start": 283.052,
+    "dur": 4.7
+   }
+  },
+  {
+   "id": "L35",
+   "start": 289.152,
+   "dur": 12.014,
+   "voice": {
+    "start": 289.652,
+    "dur": 10.114
+   }
+  },
+  {
+   "id": "L36",
+   "start": 301.166,
+   "dur": 6.044,
+   "voice": {
+    "start": 304.166,
+    "dur": 2.244
+   }
+  },
+  {
+   "id": "L37",
+   "start": 307.21,
+   "dur": 14.453,
+   "voice": {
+    "start": 307.71,
+    "dur": 13.353
+   }
+  },
+  {
+   "id": "L38",
+   "start": 321.663,
+   "dur": 5.221,
+   "voice": {
+    "start": 322.163,
+    "dur": 4.121
+   }
+  },
+  {
+   "id": "L39",
+   "start": 326.884,
+   "dur": 4.542,
+   "voice": {
+    "start": 327.084,
+    "dur": 4.242
+   }
+  },
+  {
+   "id": "L40",
+   "start": 331.426,
+   "dur": 2.41,
+   "voice": {
+    "start": 331.626,
+    "dur": 1.41
+   }
+  },
+  {
+   "id": "L41",
+   "start": 333.836,
+   "dur": 6.457,
+   "voice": {
+    "start": 334.336,
+    "dur": 4.757
+   }
+  },
+  {
+   "id": "L42",
+   "start": 340.293,
+   "dur": 3.531,
+   "voice": {
+    "start": 340.793,
+    "dur": 2.931
+   }
+  },
+  {
+   "id": "L43",
+   "start": 343.824,
+   "dur": 1.929,
+   "voice": {
+    "start": 344.024,
+    "dur": 0.829
+   }
+  },
+  {
+   "id": "L44",
+   "start": 345.753,
+   "dur": 5.546,
+   "voice": {
+    "start": 346.253,
+    "dur": 3.446
+   }
+  },
+  {
+   "id": "L45",
+   "start": 351.299,
+   "dur": 8.217,
+   "voice": {
+    "start": 354.299,
+    "dur": 4.817
+   }
+  },
+  {
+   "id": "L46",
+   "start": 359.516,
+   "dur": 7.533,
+   "voice": {
+    "start": 360.016,
+    "dur": 6.633
+   }
+  },
+  {
+   "id": "L47",
+   "start": 367.049,
+   "dur": 7.066,
+   "voice": {
+    "start": 367.549,
+    "dur": 6.166
+   }
+  },
+  {
+   "id": "L48",
+   "start": 374.115,
+   "dur": 6.292,
+   "voice": {
+    "start": 374.615,
+    "dur": 3.592
+   }
+  },
+  {
+   "id": "L49",
+   "start": 380.407,
+   "dur": 7.174,
+   "voice": {
+    "start": 382.607,
+    "dur": 4.374
+   }
+  },
+  {
+   "id": "L50",
+   "start": 387.581,
+   "dur": 7.579,
+   "voice": {
+    "start": 388.081,
+    "dur": 6.079
+   }
+  },
+  {
+   "id": "L51",
+   "start": 395.16,
+   "dur": 2.076,
+   "voice": {
+    "start": 395.56,
+    "dur": 1.076
+   }
+  },
+  {
+   "id": "L52",
+   "start": 397.236,
+   "dur": 8.703,
+   "voice": {
+    "start": 397.736,
+    "dur": 0.703
+   }
+  },
+  {
+   "id": "credits",
+   "start": 405.939,
+   "dur": 6,
+   "voice": null
+  }
+ ]
+}

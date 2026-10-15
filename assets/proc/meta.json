@@ -1,0 +1,373 @@
+{
+ "g_brush": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_burygold": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_ducks": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_exam": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_honglou": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_inkwater": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_jianye": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_libai": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_literati": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_liuxie": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_memorial": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_modern_ink": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_oldmap": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_panorama": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_paper": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_peace": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_porcelain_tower": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_qinhuai_old": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_reading": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_seasons_plum": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_stonecity": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_temples_rain": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_wallbuild": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_wuyi_swallows": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_yunjin": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_zhenghe": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_zhongshan": {
+  "w": 2560,
+  "h": 1441
+ },
+ "w_bailuzhou": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_bridge_day": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_bridge_night": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_citywall": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_gongyuan": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_jiming_pagoda": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_jiming_sakura": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_lantern": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_meilinggong": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_museum": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_qinhuai_day": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_qinhuai_night": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_snow": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_taicheng": {
+  "w": 1800,
+  "h": 1012,
+  "ink": "codex"
+ },
+ "w_wallbrick": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_wenshu": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_wutong": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_yunjin_fabric": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_yunjin_loom": {
+  "w": 2048,
+  "h": 1152,
+  "ink": "filter"
+ },
+ "w_zhonghuamen": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_zhongshan_xuanwu": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "g_enso": {
+  "w": 2560,
+  "h": 1441
+ },
+ "g_stroke": {
+  "w": 2560,
+  "h": 1441
+ },
+ "w_laomendong": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_lotus": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_plum": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_qixia": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_qixia_maple": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_wuyixiang": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_xiaoling_elephant": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_zifeng": {
+  "w": 2133,
+  "h": 1200,
+  "ink": "filter"
+ },
+ "w_duck": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_xiaoling": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_yaxue": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_baoen": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_eye": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_shitoucheng": {
+  "w": 1600,
+  "h": 900,
+  "ink": "codex"
+ },
+ "w_skyline_night": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_tangbao": {
+  "w": 1600,
+  "h": 900,
+  "ink": "filter"
+ },
+ "w_youth": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_yuejiang": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_niushou": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_nju": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_presidential": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_seu": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_zhongshanling": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_memorial": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "codex"
+ },
+ "w_metro": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_yuhuashi": {
+  "w": 1600,
+  "h": 900,
+  "ink": "filter"
+ },
+ "w_yihe": {
+  "w": 1500,
+  "h": 844,
+  "ink": "codex"
+ },
+ "w_yuhuatai": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_jingsi": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ },
+ "w_river_sunset": {
+  "w": 2560,
+  "h": 1440,
+  "ink": "filter"
+ }
+}
