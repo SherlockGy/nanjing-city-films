@@ -18,15 +18,13 @@ output/*
 !output/素材署名.txt
 !output/金陵·一卷未干的水墨.srt
 
-!output/short/
-output/short/*
-!output/short/music.m4a
-!output/short/封面_开场.jpg
-!output/short/封面_海报.jpg
-
 !output/history/
 output/history/*
 !output/history/music.m4a
 !output/history/scenes.json
 !output/history/封面_中山陵.jpg
 !output/history/预览_玄武湖.jpg
+
+# 竖屏短片保留在本地，不纳入本次发布
+/short/
+/output/short/
